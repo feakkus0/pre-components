@@ -12,7 +12,6 @@ export default function Headercomp (){
                     <li><a href="/" className="text-white hover:text-gray-200 px-4 cursor-pointer">İletişim</a></li>
                 </ul>
             </nav>
-
         </div>
     );
 }
